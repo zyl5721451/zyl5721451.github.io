@@ -4,7 +4,7 @@ SEOTitle: Allen的博客 | Allen Blog
 header-img: img/home-bg.jpg
 email: zyl5721451@qq.com
 description: "Android开发、产品设计"
-keyword: ""
+keyword: "Android开发、产品设计"
 url: "https://zyl5721451.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: zyl5721451
+duoshuo_username: _zyl5721451_
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -81,20 +81,20 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # Friends
 friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
+#    {
+#        title: "Hux Blog",
+#        href: "http://huangxuan.me"
+#    },{
+#        title: "Foo",
+#        href: "#"
+#    },{
+#        title: "Bar",
+#        href: "#"
+#    },{
+#        title: "Example Friends",
+#        href: "#"
+#    },{
+#        title: "It helps SEO",
+#        href: "#"
+#    }
 ]
